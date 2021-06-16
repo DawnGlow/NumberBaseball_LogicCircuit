@@ -273,7 +273,7 @@ end TCL_Generic;&#13;
     </comp>
     <comp lib="8" loc="(538,615)" name="Text">
       <a name="font" val="SansSerif plain 14"/>
-      <a name="text" val="정답 제출 시 1로, 숫자 변경할때는 1"/>
+      <a name="text" val="정답 제출 시 1로, 숫자 변경할때는 0"/>
     </comp>
     <comp lib="8" loc="(639,651)" name="Text">
       <a name="font" val="SansSerif plain 18"/>
